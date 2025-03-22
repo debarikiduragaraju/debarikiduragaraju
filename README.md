@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+![Untitled design](https://github.com/user-attachments/assets/94586be1-8318-49ee-9b7c-0752b981304a)
 
 # 💫 About Me:
 👋 Hi, I’m raju<br>👀 I’m interested in Data science,fun on data sets<br>🌱 I’m currently learning Data Science,Machine Learning,GEN_AI<br>💞️ I’m looking to collaborate on hungry on learning<br>📫 How to reach me 18pages.r insta account<br>😄 Pronouns: raju<br>⚡ Fun fact: I love you ,You love me
