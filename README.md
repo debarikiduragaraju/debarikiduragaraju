@@ -1,4 +1,4 @@
-![Untitled design](https://github.com/user-attachments/assets/94586be1-8318-49ee-9b7c-0752b981304a)
+![Untitled design (1)](https://github.com/user-attachments/assets/b1b52323-e74d-4e70-b415-57076ab82e57)
 
 # 💫 About Me:
 👋 Hi, I’m raju<br>👀 I’m interested in Data science,fun on data sets<br>🌱 I’m currently learning Data Science,Machine Learning,GEN_AI<br>💞️ I’m looking to collaborate on hungry on learning<br>📫 How to reach me 18pages.r insta account<br>😄 Pronouns: raju<br>⚡ Fun fact: I love you ,You love me
