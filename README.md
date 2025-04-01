@@ -2,6 +2,7 @@
 ![Untitled design (3)](https://github.com/user-attachments/assets/2f0f4900-2fea-4c5e-bd2e-5e0ef4f8bea3)
 ### ✍️ Motivation
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulvarma5297&label=Profile%20views&color=0e75b6&style=flat" alt="raju" /> </p>
 
 # 💫 About Me:
 👋 Hi, I’m raju<br>👀 I’m interested in Data science,fun on data sets<br>🌱 I’m currently learning Data Science,Machine Learning,GEN_AI<br>💞️ I’m looking to collaborate on hungry on learning<br>📫 How to reach me 18pages.r insta account<br>😄 Pronouns: raju<br>⚡ Fun fact: I love you ,You love me
