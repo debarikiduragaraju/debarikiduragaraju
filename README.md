@@ -31,5 +31,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=debarikiduragaraju&icon=0&color=0)](https://visitcount.itsvg.in)
+![a_beautiful_name_raju_with_emojis_in (1)](https://github.com/user-attachments/assets/73ae44b4-a620-432d-a0c1-32262b527889)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
